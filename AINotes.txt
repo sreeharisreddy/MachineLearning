@@ -17,3 +17,10 @@ Tanh
 ReLu
 LeakyReLu
 SoftMax
+
+What is backpropagation?
+
+When there is a an error in the prediction , the output will be propagated back with a loss function. 
+This process is called back propagation.
+ In the back propagation the network wieights will be adjusted and propagate again.
+
