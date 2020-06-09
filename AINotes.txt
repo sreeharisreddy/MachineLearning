@@ -1,0 +1,37 @@
+
+What is CNN ?
+ The Convolutional Newral network is a special type of network which is used for perceptions (to hear and see ).
+It is used for supervised learning.
+CNN is used for Imageprocessing and Natural Langage processing.
+
+It has one input layer , one are many hidden layer and one output layer followed by sigmoid and activation function .
+What is LSTM?
+
+
+What is activation function?
+ If we donot apply a activation function the output signal would be simple leaner function. It is a simple polinomial of one degree.
+
+Examples : 
+sigmoid
+Tanh 
+ReLu
+LeakyReLu
+SoftMax
+
+What is backpropagation?
+
+When there is a an error in the prediction , the output will be propagated back with a loss function. 
+This process is called back propagation.
+ In the back propagation the network wieights will be adjusted and propagate again.
+
+Steps for building first Artificial Newralnetwork?
+
+1.Data preprocessing 
+2.Add a I put layer
+3.Random weight init 
+4.Add Hidden layers 
+5.select optimizer,loss and performance metrics
+6.compile the model
+7.run the model.fit method to train
+8.Evoluate the model
+9.Adjust optimisation parameters or model if needed.
