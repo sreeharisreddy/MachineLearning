@@ -24,3 +24,14 @@ When there is a an error in the prediction , the output will be propagated back 
 This process is called back propagation.
  In the back propagation the network wieights will be adjusted and propagate again.
 
+Steps for building first Artificial Newralnetwork?
+
+1.Data preprocessing 
+2.Add a I put layer
+3.Random weight init 
+4.Add Hidden layers 
+5.select optimizer,loss and performance metrics
+6.compile the model
+7.run the model.fit method to train
+8.Evoluate the model
+9.Adjust optimisation parameters or model if needed.
