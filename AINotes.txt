@@ -1,1 +1,19 @@
 
+What is CNN ?
+ The Convolutional Newral network is a special type of network which is used for perceptions (to hear and see ).
+It is used for supervised learning.
+CNN is used for Imageprocessing and Natural Langage processing.
+
+It has one input layer , one are many hidden layer and one output layer followed by sigmoid and activation function .
+What is LSTM?
+
+
+What is activation function?
+ If we donot apply a activation function the output signal would be simple leaner function. It is a simple polinomial of one degree.
+
+Examples : 
+sigmoid
+Tanh 
+ReLu
+LeakyReLu
+SoftMax
