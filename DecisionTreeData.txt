@@ -1,0 +1,6 @@
+Result,Initial payment,Last Payment,Credit Score,House NUmber
+Yes,201,10018,250,3046
+Yes,205,10016,395,3044
+Yes,257,10129,109,3251
+Yes,246,10064,324,3137
+
