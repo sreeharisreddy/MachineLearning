@@ -6,6 +6,14 @@ What are the classification algorithms?
                  Is unrelated to the presence of any other feature.
 4.KNN ( K Nearest Neighber): stores all the classes and classifies need cases based on the similarity measure.
 
+How secession tree decides where to split ?
+ Gini Index  : it is the measure of impurity or (purity) used in building decession tree in CART
+ Information gain : it is the decrease in entropy after a dataset is split on the basis of an attribute.
+                    Constructing a decession tree is all about finding an attribute that returns highest information.
+Reduction in variance: it is an algorithm used for continuous target variables(regression problems).
+   The split with lower variance is selected as criteria to select the population.
+ChiSquare : is an algorithm to find out statistical significance between the differences, between sub nodes and parent nodes.
+
 
 What is CNN ?
  The Convolutional Newral network is a special type of network which is used for perceptions (to hear and see ).
