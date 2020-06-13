@@ -1,3 +1,11 @@
+What are the classification algorithms?
+
+1. Secession tree :
+2. Random forest : divide the data set into different sets and apply the model individually.
+3.Navie Bayes : it is based on Bayes theram, It assumes that the presence of any particular feature in a class 
+                 Is unrelated to the presence of any other feature.
+4.KNN ( K Nearest Neighber): stores all the classes and classifies need cases based on the similarity measure.
+
 
 What is CNN ?
  The Convolutional Newral network is a special type of network which is used for perceptions (to hear and see ).
