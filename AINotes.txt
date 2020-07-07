@@ -66,7 +66,11 @@ What is difference between logistic and linear regression?
 Linear :  1. to find continues valribles 
 2.solves regression problems, here the concept of independent and dependent variables.
 3. It is straight line graph
+4. It is used for predicting tomorrow temperature .
  
 Logistic: to find categorical values 
 2.It has discreet values . It solves classification problems .
 3. It is S curve (sigmoid curve)
+4. Used for predicting tomorrow rainy or not .
+ Vedio link : https://youtu.be/VCJdg7YBbAQ
+
