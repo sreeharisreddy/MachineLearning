@@ -51,3 +51,22 @@ Steps for building first Artificial Newralnetwork?
 7.run the model.fit method to train
 8.Evoluate the model
 9.Adjust optimisation parameters or model if needed.
+
+What is logistic regression?
+    Based on x value find out the y value. Y = Mx + c
+
+What is linear regression?
+   Linear regression used for find out the continues values . If the we want find out the target/dependent values in certain range .
+
+What is logistic regression?
+     Used for to find out categorical values that is 0 r 1 . 
+
+What is difference between logistic and linear regression?
+
+Linear :  1. to find continues valribles 
+2.solves regression problems, here the concept of independent and dependent variables.
+3. It is straight line graph
+ 
+Logistic: to find categorical values 
+2.It has discreet values . It solves classification problems .
+3. It is S curve (sigmoid curve)
